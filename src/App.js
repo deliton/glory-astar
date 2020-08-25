@@ -156,7 +156,7 @@ class App extends React.Component {
 
     if (cell.column - 1 >= 0) {
       const westCell = this.state.grid[cell.row][cell.column - 1];
-      if (westCell.state !== "blocked-cell") {
+      if (westCell.state !== "cell-blocked") {
         result.push(westCell);
       }
     }
