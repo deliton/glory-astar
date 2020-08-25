@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "479c3a82b92a9843cc94f80d68a94e96",
+    "revision": "40b51b39feca1f106295284b340268ba",
     "url": "/glory-astar/index.html"
   },
   {
-    "revision": "bc9aa51c0f2c0149aa33",
+    "revision": "ecbf715332214bcfdb84",
     "url": "/glory-astar/static/css/main.d21156a6.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/glory-astar/static/js/2.660cd9f6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bc9aa51c0f2c0149aa33",
-    "url": "/glory-astar/static/js/main.9cf08219.chunk.js"
+    "revision": "ecbf715332214bcfdb84",
+    "url": "/glory-astar/static/js/main.352219dc.chunk.js"
   },
   {
     "revision": "0272a6af90d71ec07444",

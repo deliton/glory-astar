@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/glory-astar/static/css/main.d21156a6.chunk.css",
-    "main.js": "/glory-astar/static/js/main.9cf08219.chunk.js",
-    "main.js.map": "/glory-astar/static/js/main.9cf08219.chunk.js.map",
+    "main.js": "/glory-astar/static/js/main.352219dc.chunk.js",
+    "main.js.map": "/glory-astar/static/js/main.352219dc.chunk.js.map",
     "runtime-main.js": "/glory-astar/static/js/runtime-main.72b628e8.js",
     "runtime-main.js.map": "/glory-astar/static/js/runtime-main.72b628e8.js.map",
     "static/js/2.660cd9f6.chunk.js": "/glory-astar/static/js/2.660cd9f6.chunk.js",
     "static/js/2.660cd9f6.chunk.js.map": "/glory-astar/static/js/2.660cd9f6.chunk.js.map",
     "index.html": "/glory-astar/index.html",
-    "precache-manifest.d931beed16b7961d2580f2b5e1fec80b.js": "/glory-astar/precache-manifest.d931beed16b7961d2580f2b5e1fec80b.js",
+    "precache-manifest.a76073166f2c6fa72c522386b84fa90a.js": "/glory-astar/precache-manifest.a76073166f2c6fa72c522386b84fa90a.js",
     "service-worker.js": "/glory-astar/service-worker.js",
     "static/css/main.d21156a6.chunk.css.map": "/glory-astar/static/css/main.d21156a6.chunk.css.map",
     "static/js/2.660cd9f6.chunk.js.LICENSE.txt": "/glory-astar/static/js/2.660cd9f6.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.72b628e8.js",
     "static/js/2.660cd9f6.chunk.js",
     "static/css/main.d21156a6.chunk.css",
-    "static/js/main.9cf08219.chunk.js"
+    "static/js/main.352219dc.chunk.js"
   ]
 }

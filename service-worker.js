@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/glory-astar/precache-manifest.d931beed16b7961d2580f2b5e1fec80b.js"
+  "/glory-astar/precache-manifest.a76073166f2c6fa72c522386b84fa90a.js"
 );
 
 self.addEventListener('message', (event) => {
