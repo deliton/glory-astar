@@ -7,7 +7,7 @@ A visual implementation of the A* algorithm originally made by Peter Hart, Nils 
 
 ## Test it in your browser
 
-Open the following link to test this project quickly in your browser: http://glory-astar.herokuapp.com
+Open the following link to test this project quickly in your browser: https://deliton.github.io/glory-astar/
 
 ## Description
 
